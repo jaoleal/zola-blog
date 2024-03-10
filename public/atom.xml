@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Joao Leal</title>
+    <subtitle>A Brazilian developer that love to write about programming, technology and life.</subtitle>
+    <link href="joaoleal.pro/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="joaoleal.pro"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-10-03T00:00:00+00:00</updated>
+    <id>joaoleal.pro/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Hi, name&#x27;s Jao!</title>
+        <published>2024-10-03T00:00:00+00:00</published>
+        <updated>2024-10-03T00:00:00+00:00</updated>
+        <author>
+          <name>Joao Leal</name>
+        </author>
+        <link rel="alternate" href="joaoleal.pro/hi-names-jao/" type="text/html"/>
+        <id>joaoleal.pro/hi-names-jao/</id>
+        
+        <content type="html">&lt;p&gt;I&#x27;m a Brazilian software developer that, in the time of this post, I&#x27;m 20 years old and at my first year of my computer science undergraduate degree.
+I wrote my first line of code in the &lt;a href=&quot;https:&#x2F;&#x2F;learn.microsoft.com&#x2F;pt-br&#x2F;cpp&#x2F;c-language&#x2F;?view=msvc-170&quot;&gt;C language&lt;&#x2F;a&gt; at 16, just a simple hello world, that made me waste 2 hours and almost give up, but when i did:&lt;&#x2F;p&gt;
+&lt;div style=&quot;width:100%;height:0;padding-bottom:42%;position:relative;&quot;&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;giphy.com&#x2F;embed&#x2F;Z6f7vzq3iP6Mw&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;position:absolute&quot; allowFullScreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;div&gt;
+&lt;p&gt;Everyone should remember they first hello world, right?
+But that was not when i became a programmer... as you can clearly see in my commit history at mine &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jaoleal&quot;&gt;github&lt;&#x2F;a&gt; i had long breaks in programming just because i was&#x27;nt really sure of what the hell as going on. But all my free times among school and work, i keep studying and just listening to other programmers talking about programming shit.&lt;&#x2F;p&gt;
+&lt;p&gt;One of my favorite was &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@Akitando&quot;&gt;Fabio Akita&lt;&#x2F;a&gt;, if you understand portuguese take a look at his channel.&lt;&#x2F;p&gt;
+&lt;p&gt;I can surely say that i became a programmer when i got close to my cousin &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;storopoli&quot;&gt;Jose Storopoli&lt;&#x2F;a&gt;, he is the most dedicated programmer that i know (and the best one too btw), so take a look at his work on his 
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;storopoli&quot;&gt;github&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;storopoli.io&#x2F;&quot;&gt;blog&lt;&#x2F;a&gt; is totally worth the time, he love javascript (trust me 😂).&lt;&#x2F;p&gt;
+&lt;p&gt;Back on track, Jose introduced me to &lt;a href=&quot;https:&#x2F;&#x2F;www.rust-lang.org&#x2F;pt-BR&quot;&gt;Rust&lt;&#x2F;a&gt;, his &lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;Julia-Data-Science-Portugu%C3%AAs-Portuguese&#x2F;dp&#x2F;B09QP69D1T&quot;&gt;book of Julia&lt;&#x2F;a&gt;, as you can see, they are the best in what they are made to do&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;julialang.org&#x2F;&quot;&gt;Julia&lt;&#x2F;a&gt; make easy-to-do math and is fast as fuck.&lt;&#x2F;p&gt;
+&lt;p&gt;Any Rust software is like &lt;a href=&quot;https:&#x2F;&#x2F;minecraft.fandom.com&#x2F;wiki&#x2F;Bedrock&quot;&gt;bedrock&lt;&#x2F;a&gt;, will never break thanks to its memory-safety driven architecture and of course is fast as fuck.&lt;&#x2F;p&gt;
+&lt;p&gt;Do you know what kind of software needs to be memory efficient and have fast math ? Yes, Games!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gaming-development&quot;&gt;Gaming Development&lt;&#x2F;h2&gt;
+&lt;p&gt;Of course, Julia have another purpose than be in games.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Julia is a high-level, general-purpose dynamic programming language, most commonly used for numerical analysis and computational science. at &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Julia_(programming_language)&quot;&gt;Wikipedia&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;But talking about fast math was something of my interest.&lt;&#x2F;p&gt;
+&lt;p&gt;Rust is slowly walking in game, but not because its bad, but because of the way that the game industry works(and web too), i have some strong opinions about the game industry that i will make a separate blog post to it.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;see &lt;a href=&quot;https:&#x2F;&#x2F;arewegameyet.rs&#x2F;&quot;&gt;Are We Game Yet ?&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;My personal goal is to be a game developer, but i do not have much choice right now, so im beeing embracing of what i work, what i study and what i do not. Timing is fundamental at the beggining.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;web-development&quot;&gt;Web Development&lt;&#x2F;h2&gt;
+&lt;p&gt;Web is not something that triggers me some excitement as Game Development does, but i do like a bit(I am making a blog duhr).&lt;&#x2F;p&gt;
+&lt;p&gt;Actually, i do believe that web is the future of computers programs, at least 90% of them, more precisely this future will be when javascript die, or just be used to call WASM.&lt;&#x2F;p&gt;
+&lt;p&gt;Talking about WASM, that one is a game changer, i will talk briefly about it right now, but i will make a separate blog post just for it.&lt;&#x2F;p&gt;
+&lt;p&gt;WASM is the good way to do web apps, it is fast, it is secure, it is memory efficient and we can use some good programming languages, not javascript.
+I will proudly share this mine &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jaoleal&#x2F;Rust-C-Wasm&quot;&gt;Rust-C-Wasm project&lt;&#x2F;a&gt;, go take some time to read about it.&lt;&#x2F;p&gt;
+&lt;p&gt;That is not everything that i do with Rust, i do some bitcoin studying too!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;bitcoin-development&quot;&gt;Bitcoin Development&lt;&#x2F;h2&gt;
+&lt;p&gt;Dispise your political opinion, Bitcoin is the future of money, it secure, it is decentralized, it is(mostly) tax free, what make Bitcoin the best and cheapest way to work-around with money.&lt;&#x2F;p&gt;
+&lt;p&gt;The technology behind it is just amazing and every developer should learn a little about it.&lt;&#x2F;p&gt;
+&lt;p&gt;Right now, when i am writing this, i do make part of the &lt;a href=&quot;https:&#x2F;&#x2F;vinteum.org&#x2F;&quot;&gt;Vinteum&lt;&#x2F;a&gt; and i am applying to &lt;a href=&quot;https:&#x2F;&#x2F;www.summerofbitcoin.org&#x2F;&quot;&gt;Summer of Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;phew&quot;&gt;Phew&lt;&#x2F;h2&gt;
+&lt;p&gt;As you can see, i do a lot of things, and i didn&#x27;t even say everything that i want, but surely i will do! And not just about programming, but everything that i like and find interesting to talk about.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
