@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Joao Leal</title>
     <subtitle>A Brazilian developer that love to write about programming, technology and life.</subtitle>
-    <link href="joaoleal.pro/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="joaoleal.pro"/>
+    <link href="https://joaoleal.pro/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://joaoleal.pro"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-10-03T00:00:00+00:00</updated>
-    <id>joaoleal.pro/atom.xml</id>
+    <id>https://joaoleal.pro/atom.xml</id>
     <entry xml:lang="en">
         <title>Hi, name&#x27;s Jao!</title>
         <published>2024-10-03T00:00:00+00:00</published>
@@ -14,8 +14,8 @@
         <author>
           <name>Joao Leal</name>
         </author>
-        <link rel="alternate" href="joaoleal.pro/hi-names-jao/" type="text/html"/>
-        <id>joaoleal.pro/hi-names-jao/</id>
+        <link rel="alternate" href="https://joaoleal.pro/hi-names-jao/" type="text/html"/>
+        <id>https://joaoleal.pro/hi-names-jao/</id>
         
         <content type="html">&lt;p&gt;I&#x27;m a Brazilian software developer that, in the time of this post, I&#x27;m 20 years old and at my first year of my computer science undergraduate degree.
 I wrote my first line of code in the &lt;a href=&quot;https:&#x2F;&#x2F;learn.microsoft.com&#x2F;pt-br&#x2F;cpp&#x2F;c-language&#x2F;?view=msvc-170&quot;&gt;C language&lt;&#x2F;a&gt; at 16, just a simple hello world, that made me waste 2 hours and almost give up, but when i did:&lt;&#x2F;p&gt;

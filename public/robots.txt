@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: joaoleal.pro/sitemap.xml
+Sitemap: https://joaoleal.pro/sitemap.xml
