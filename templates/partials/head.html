@@ -21,7 +21,7 @@
   {% endif %}
 
   <!-- CSS & JS -->
-  <link rel="preload stylesheet" as="style" href="main.css" />
+  <link rel="preload stylesheet" as="style" href="{{ get_url(path=`main.css`) }}" />
   <style>
     :root {
       --bg: {{ config.extra.style.bg_color | default(value="#f4f4f5") }};
@@ -68,7 +68,7 @@
   <!---->
 
   <!-- Favicon -->
-  <link rel="icon" type="image/x-icon" href= "favicon-16x16.png"/>
+  <link rel="icon" type="image/x-icon" href= "{{ get_url(path=`favicon16x16.png`) }}"/>
   <!-- Feeds -->
   {% if config.generate_feed %}
   <!---->
