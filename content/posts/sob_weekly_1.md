@@ -1,5 +1,5 @@
 +++
-title = "Sob weekly report!"
+title = "SoB weekly report!"
 date = "2024-11-06"
 description = "Weekly report of the Summer of Bitcoin work"
 [taxonomies]
