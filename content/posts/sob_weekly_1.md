@@ -8,8 +8,7 @@ tags = ["blog post","Summer of Bitcoin", "Work", "Floresta", "Rust", "Bitcoin"]
 
 So, Summer of Bitcoin, the reason for my lack of sleep in the past month.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjI2aWtrNDdld211b3ptZmF2OHAxZ2xsZnJjOGw0c2Fzd2VwMGcwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udoce5CHY5kZSY031S/giphy.webp" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
+<iframe src="https://giphy.com/embed/udoce5CHY5kZSY031S" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ThisIsMashed-animation-animated-mashed-udoce5CHY5kZSY031S">via GIPHY</a></p>
 
 In short words, there are some college programs of computer science that take the “summer” time of students to get’em to work and try to help them to enter the programming industry… We really need this help, after the pandemics and the six months courses that just spammed made the junior entry kinda bloated with some rookies that learned to write some code on **python** or **yavascript** and are trying to find a job. That's not my case for a bunch of reasons (Web Development never was my thing by example), anyway, just some bs that i have to complain about because a lot of people got fooled by those courses.
 
