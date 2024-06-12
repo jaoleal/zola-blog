@@ -16,4 +16,4 @@ jobs:
           
           #TOKEN: ${{ secrets.TOKEN }}
           # Or if publishing to the same repo, use the automatic token
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
