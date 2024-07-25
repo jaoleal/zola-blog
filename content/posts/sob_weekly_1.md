@@ -1,6 +1,6 @@
 +++
 title = "SoB weekly report!"
-date = "2024-11-06"
+date = "2024-06-11"
 description = "Weekly report of the Summer of Bitcoin work"
 [taxonomies]
 tags = ["blog post","Summer of Bitcoin", "Work", "Floresta", "Rust", "Bitcoin"]

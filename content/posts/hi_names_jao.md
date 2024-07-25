@@ -1,6 +1,6 @@
 +++
 title = "Hi, name's Jao!"
-date = "2024-10-03"
+date = "2024-03-10"
 description = "A small talk about me with me"
 [taxonomies]
 tags = ["blog post","autobiography", "personal", "story"]
