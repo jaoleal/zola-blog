@@ -1,7 +1,7 @@
-base_url = "https://joaoleal.pro"
+base_url = "https://jaoleal.github.io/zola-blog/"
 
 title = "錆 Blog"
-description = "A Brazilian developer that love to write about programming, technology and life."
+description = "A Brazilian developer that loves to write about programming, technology and life."
 
 author = "João Leal"
 
@@ -9,9 +9,9 @@ author = "João Leal"
 default_language = "en"
 
 # When set to "true", a feed is automatically generated.
-generate_feed = true
+generate_feeds = true
 
-minify_hmtl = true
+minify_html = true
 
 # The filename to use for the feed. Used as the template filename, too.
 # Defaults to "atom.xml", which has a built-in template that renders an Atom 1.0 feed.
@@ -28,7 +28,6 @@ extra_syntaxes_and_themes = []
 
 highlight_theme = "base16-ocean-dark"
 
-
 [extra]
 # Enable KaTex math formula support globally.
 math = false
@@ -44,7 +43,7 @@ header_blur = true
 
 [extra.profile]
 name = "Joao Leal"
-bio = "A Brazilian developer that love to write about programming, technology and life."
+bio = "A Brazilian developer that loves to write about programming, technology and life."
 avatar_url = "icons/Icon.png"
 
 [[extra.profile.social]]
@@ -57,42 +56,14 @@ url = "https://twitter.com/RustyJao"
 
 [[extra.profile.social]]
 name = "rss"
-url = "$BASE_URL/atom.xml"
+url = "https://jaoleal.github.io/zola-blog/atom.xml"
 
 # The top menu.
 #[[extra.menu]]
 #name = "Projects"
-#url = "$BASE_URL/projects"
+#url = "https://jaoleal.github.io/zola-blog/projects"
 
 #[[extra.menu]]
 #name = "Archive"
-#url = "$BASE_URL/archive"
+#url = "https://jaoleal.github.io
 
-[[extra.menu]]
-name = "Tags"
-url = "$BASE_URL/tags"
-
-#[[extra.menu]]
-#name = "About Me"
-#url = "$BASE_URL/about"
-
-# The page footer options.
-[extra.footer]
-since = 2024
-license = "CC BY-SA 4.0"
-license_url = "https://creativecommons.org/licenses/by-sa/4.0/deed"
-
-# The giscus comment options, only available when comment is enabled.
-[extra.giscus]
-repo = ""
-repo_id = ""
-category = ""
-category_id = ""
-mapping = "pathname"
-strict = 1
-reactions_enabled = 0
-emit_metadata = 0
-input_position = "top"
-theme = "light"
-lang = "en"
-loading = "lazy"
